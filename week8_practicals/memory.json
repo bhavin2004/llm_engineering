@@ -1,0 +1,29 @@
+[
+    {
+        "deal": {
+            "product_description": "The Dell 15 13th-Gen. i7 Laptop is a high-performance device built for both productivity and entertainment. Featuring a 15.6\" display, it comes equipped with 16GB of RAM and a spacious 1TB SSD to handle demanding applications and multitasking effortlessly. This laptop is designed with Dell's latest technology, ensuring robust speed and efficiency for all your computing needs. It is also constructed for portability and durability, making it an excellent choice for students or professionals on the go.",
+            "price": 650.0,
+            "url": "https://www.dealnews.com/Dell-15-13-th-Gen-i7-15-6-Laptop-w-16-GB-RAM-1-TB-SSD-for-650-free-shipping/21767514.html?iref=rss-c39"
+        },
+        "estimate": 843.4533493622566,
+        "discount": 193.45334936225663
+    },
+    {
+        "deal": {
+            "product_description": "The HP 12th-Gen. N100 15.6\" Laptop Bundle combines powerful performance with sleek design. It is equipped with the latest 12th-generation Intel processors, ensuring speedy processing for all your computing needs. The 15.6-inch display offers vibrant visuals, making it perfect for both work and entertainment. This bundle also includes essential accessories to enhance your computing experience, providing great value at a competitive price.",
+            "price": 360.0,
+            "url": "https://www.dealnews.com/HSN-Electronics-Deals-Up-to-70-off-free-shipping/21767929.html?iref=rss-c142"
+        },
+        "estimate": 500.33119363921674,
+        "discount": 140.33119363921674
+    },
+    {
+        "deal": {
+            "product_description": "The Samsung Galaxy Tab S10 Lite is a versatile 10.9-inch Android tablet that combines sleek design with powerful functionality. Priced starting at $200, this tablet supports a variety of applications, perfect for gaming, streaming, or productivity. With additional perks such as a complimentary Samsung Smart Book Cover, it\u2019s designed to make life on the go easier while also delivering impressive performance.",
+            "price": 200.0,
+            "url": "https://www.dealnews.com/products/Samsung/Samsung-Galaxy-Tab-S10-Lite-10-9-Android-Tablet/493728.html?iref=rss-c39"
+        },
+        "estimate": 302.6429867558967,
+        "discount": 102.64298675589669
+    }
+]

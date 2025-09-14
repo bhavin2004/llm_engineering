@@ -14,7 +14,7 @@ class PricerAgent(Agent):
         self.log("Pricer Agent is ready")
         
     def price(self, item_description: str) -> str:
-        self.log("Specialist Agent is calling remote fine-tuned model")
+        self.log("Pricer Agent is calling remote fine-tuned model")
         
         price = self.pricer.price.remote(item_description)
         self.log(f"Received price: {price}")
